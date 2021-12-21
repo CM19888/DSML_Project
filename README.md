@@ -13,7 +13,7 @@ To run:
 
 To install Biopython using Anaconda through the Environments:
 1. Go to "Environments" tab on the Anaconda Navigator
-2. Pick the environment use wish to install Biopython (in base or your own)
+2. Pick the environment you wish to install Biopython (in base or your own)
 3. Use the drop down menu to look at "All" packages
 4. Select Biopython for installation
 
